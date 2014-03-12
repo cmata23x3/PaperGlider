@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	A2D11E1A16B1D5AC00F9FDA4 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD32CCAC16BC799300C664D2 /* Paper Glider */;
+		activeTarget = A2D11E2216B1D5AC00F9FDA4 /* Paper Glider */;
+		codeSenseManager = FD32CCC616BC79B300C664D2 /* Code sense */;
+		executables = (
+			FD32CCAC16BC799300C664D2 /* Paper Glider */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 381490988;
+			PBXWorkspaceStateSaveDate = 381490988;
+		};
+		sourceControlManager = FD32CCC516BC79B300C664D2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A2D11E2216B1D5AC00F9FDA4 /* Paper Glider */ = {
+		activeExec = 0;
+		executables = (
+			FD32CCAC16BC799300C664D2 /* Paper Glider */,
+		);
+	};
+	FD32CCAC16BC799300C664D2 /* Paper Glider */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Paper Glider";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FD32CCC516BC79B300C664D2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FD32CCC616BC79B300C664D2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
